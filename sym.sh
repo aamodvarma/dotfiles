@@ -3,7 +3,7 @@
 cd $HOME
 
 
-files='bashrc vimrc xinitrc xprofile'
+files='bashrc vimrc xinitrc xprofile Xresource'
 
 if [ -d "$HOME/.dotfiles.bak" ]
 then
